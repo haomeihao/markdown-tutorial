@@ -4,5 +4,5 @@ markdown tutorial
 ```
 
 #### picture
-![图片](./fengjing.jpg)
+![图片](file/fengjing.jpg)
 
